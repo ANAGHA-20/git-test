@@ -1,3 +1,4 @@
 Studying git using odin project
 
 trying git commit
+this line is added in main branch
