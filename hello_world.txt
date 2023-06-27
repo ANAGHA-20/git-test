@@ -1,4 +1,5 @@
 Studying git using odin project
 
 trying git commit
-this line is added in main branch
+
+this line is added in main branch was chosen during merge
